@@ -1,0 +1,10 @@
+Category,Item Description,Quantity,Unit Price ($),Total Price ($),Notes
+Microcontroller,Seeed Studio Seeeduino XIAO,1,9.0,9.0,Main MCU controller board
+PCB Components,1N4148 Switching Diodes,11,0.89,9.79,Signal diodes for matrix ($0.89 each)
+PCB Components,Kailh Hotswap Sockets,9,1.25,11.25,PCB hotswap sockets ($1.25 each)
+Key Switches,Gateron KS-3X10 Switches (Pack of 35),1,14.99,14.99,Requires 9 switches; sold as 1 pack of 35
+PCB Components,EC11 Rotary Encoders,2,3.5,7.0,MPN: PEC11R-4225F-N0024-ND ($3.50 each)
+PCB & Fabrication,Custom PCB Fabrication (Pack of 5),1,11.0,11.0,Includes global shipping
+Enclosure / Materials,PLA Filament (Matte Black),1,5.0,5.0,3D printing material for case
+Assembly Tools,Soldering Iron Kit,1,25.0,25.0,Assembly equipment
+TOTAL,Grand Total Cost,,,93.03,Sum of all build items and tools
